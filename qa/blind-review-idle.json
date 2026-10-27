@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose, raised chin and pupils point toward screen-right; B nose and upward gaze point screen-left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A presents leftward facial profile and pupils; B nose and pupils shift right of head center."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A chin/nose extends right and eyes aim right; B facial profile and eyes aim left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose projects screen-left with face shifted left; B nose projects screen-right and face shifts right."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A angled face and nose aim to the right while glancing downward; B nose and pupils are oriented left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A lowered face has nose and pupils left of head center; B lowered nose and pupils are right of head center."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Both lower their faces, but A nose and visible eye line shift right; B nose and gaze shift left."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A bows head with crown dominant, eyes under lowered bangs and chin tucked; B chin lifts, eyes rise and face opens upward."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A lifts chin and pupils toward upper-right; B dips face toward lower-right with bangs covering more forehead/eyes."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A chin tucks and gaze drops below eye center; B chin and nose lift with pupils aimed upward."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a slightly lowered nose/chin and downward eye line; B lifts chin with eyes aimed above the horizontal."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A head bows and pupils sit low under bangs; B throat/chin extends upward and pupils aim high."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A nose and eyes angle downward-left; B chin rises and eyes aim upward-left."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A face turns left with a slightly lifted chin and upper eye gaze; B lowers its nose and gaze beneath bangs."
+    }
+  ]
+}

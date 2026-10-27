@@ -1,0 +1,77 @@
+{
+  "purpose": "Shared body scale across states while preserving actual jump lift; one fixed transform for each entire row.",
+  "rows": [
+    {
+      "state": "failed",
+      "scale": 0.8484848484848485,
+      "anchor": [
+        96,
+        203
+      ]
+    },
+    {
+      "state": "idle",
+      "scale": 0.8484848484848485,
+      "anchor": [
+        96,
+        203
+      ]
+    },
+    {
+      "state": "jumping",
+      "scale": 1.0,
+      "anchor": [
+        96,
+        203
+      ]
+    },
+    {
+      "state": "review",
+      "scale": 0.8484848484848485,
+      "anchor": [
+        96,
+        203
+      ]
+    },
+    {
+      "state": "running",
+      "scale": 0.8484848484848485,
+      "anchor": [
+        96,
+        203
+      ]
+    },
+    {
+      "state": "running-left",
+      "scale": 0.8484848484848485,
+      "anchor": [
+        96,
+        203
+      ]
+    },
+    {
+      "state": "running-right",
+      "scale": 0.8484848484848485,
+      "anchor": [
+        96,
+        203
+      ]
+    },
+    {
+      "state": "waiting",
+      "scale": 0.8484848484848485,
+      "anchor": [
+        96,
+        203
+      ]
+    },
+    {
+      "state": "waving",
+      "scale": 0.8484848484848485,
+      "anchor": [
+        96,
+        203
+      ]
+    }
+  ]
+}

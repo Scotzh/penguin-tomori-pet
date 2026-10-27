@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A lifts its chin with nose and pupils displaced to screen-right; B lifts its chin with nose and pupils displaced to screen-left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A shows a leftward nose silhouette and eyes aiming left; B shows the opposite rightward nose silhouette and rightward eyes."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A face plane and nose turn right of the hair mass; B face plane and nose turn left, with the visible cheek and ear arrangement reversed."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose projects left and pupils look left; B nose projects right and pupils look right."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A lowers its head slightly while pointing nose and eyes right; B points the lowered face and eyes left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A bowed face is shifted left relative to the skull and eyes aim left; B bowed face and visible gaze shift right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Both bow deeply, but A nose tip and visible eye direction angle down-right while B nose tip and eye direction angle down-left."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A bows chin toward belly with prominent top of hair and lowered eyes; B extends chin and tilts face upward with pupils high in the eyes."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A chin is lifted and eyes point above the head horizon; B chin is tucked and eyes point beneath the face."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A head pitches downward, showing crown and face lowered toward chest; B head pitches upward with raised nose and elevated eyes."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a subtle downward chin tuck and lowered eye direction; B raises nose/chin and aims its eyes upward."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a pronounced lowered forehead/face and tucked chin; B lifts chin away from torso and looks above it."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A pitches its left-facing head down with pupils below neutral; B left-facing head pitches back with upward nose and eyes."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A extends its neck and raises chin and eyes toward upper-left; B tucks chin and gaze toward lower-left."
+    }
+  ]
+}

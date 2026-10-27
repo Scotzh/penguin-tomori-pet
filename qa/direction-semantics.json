@@ -1,0 +1,120 @@
+{
+  "reviewed_sheet": "qa/directions-final.png",
+  "review_size": "native 192x208 cells, plus face details",
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "observed": "frontal head with raised chin and amber irises toward upper lids",
+      "verdict": "pass",
+      "evidence": "Nose above face center, chin exposed; feet and belly upright and anchored."
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "observed": "upward pitch with slight rightward head yaw",
+      "verdict": "pass",
+      "evidence": "Both irises high, nose to right of head center; raised chin remains clear."
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "observed": "raised chin and screen-right head yaw",
+      "verdict": "pass",
+      "evidence": "Nose and eyes right of head center and aimed upward; left ear exposed."
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "observed": "mostly right with slight upward pitch",
+      "verdict": "warning",
+      "evidence": "Nose strongly right, eyes above central line and chin slightly lifted; close to previous pose but no reversal."
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "observed": "head directed horizontally screen-right",
+      "verdict": "pass",
+      "evidence": "Nose projects at right edge of face, irises aim right; crown and chin level, body stays planted."
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "observed": "rightward yaw with chin beginning to lower",
+      "verdict": "pass",
+      "evidence": "Nose right of head center; crown more exposed and eyes below prior horizontal gaze. Larger pixel change is head pitch, no scale or base snap."
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "observed": "head pitched down and right",
+      "verdict": "pass",
+      "evidence": "Nose still right of head center, lower eyelids and tucked chin; upper hair cap exposed."
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "observed": "mostly downward gaze retaining slight right yaw",
+      "verdict": "pass",
+      "evidence": "Chin tucked, irises low, nose slightly right; smooth progression toward down anchor."
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "observed": "frontal head bowed toward belly",
+      "verdict": "pass",
+      "evidence": "Crown and bangs exposed, chin tucked and amber irises aimed beneath low lids; no lateral nose displacement."
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "observed": "bowed head with slight screen-left yaw",
+      "verdict": "pass",
+      "evidence": "Nose and irises left of head center, crown exposed and chin lowered."
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "observed": "downward pitch with leftward yaw",
+      "verdict": "pass",
+      "evidence": "Nose farther left and amber eyes aim left/down; forehead remains more exposed than horizontal anchor."
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "observed": "mostly left with subtle downward pitch",
+      "verdict": "warning",
+      "evidence": "Nose and irises face left; chin still slightly tucked and upper hair visible. Similar to prior pose but ordered yaw continues."
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "observed": "horizontal screen-left gaze",
+      "verdict": "pass",
+      "evidence": "Nose projects at left facial edge and both irises aim left; chin level, right ear visible, feet planted."
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "observed": "left yaw with slightly raised chin",
+      "verdict": "pass",
+      "evidence": "Nose remains left, eyes rise toward upper lids; chin starts exposing underside."
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "observed": "clear upward-left head gaze",
+      "verdict": "pass",
+      "evidence": "Both amber irises point high-left; chin lifted, nose left of head center, face readable."
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "observed": "upward pitch with remaining leftward yaw",
+      "verdict": "pass",
+      "evidence": "Chin most raised in left half; nose/eyes still left. Loop to frontal up changes yaw continuously, base center differs only 2px, no body turn or clipping."
+    }
+  ],
+  "continuity_review": "090->112.5 and 337.5->000 metrics flagged larger facial differences. Native-size review shows intended pitch/yaw changes with stable lower torso and feet; no scale pop, disappearance, backtrack or broken attachment.",
+  "identity": "Gray bob, amber anime eyes, cream belly, black flippers, orange feet remain consistent across all sixteen poses."
+}

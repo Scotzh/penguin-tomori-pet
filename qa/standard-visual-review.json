@@ -1,0 +1,68 @@
+{
+  "ok": true,
+  "review_type": "independent visual review of standard rows",
+  "artifacts_reviewed": [
+    "qa/contact-standard.png",
+    "qa/idle-jump-review-strip.png",
+    "qa/registered-frames"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "verdict": "pass",
+      "evidence": "Planted orange feet, calm breathing and head sway, visible blink; first and final poses close."
+    },
+    {
+      "state": "running-right",
+      "verdict": "pass",
+      "evidence": "Head, nose and body face screen-right; orange feet alternate stride with flipper counter-motion."
+    },
+    {
+      "state": "running-left",
+      "verdict": "pass",
+      "evidence": "Head, nose and body face screen-left; alternating feet and flipper cadence; preserves gray bob, gold eyes and penguin body."
+    },
+    {
+      "state": "waving",
+      "verdict": "pass",
+      "evidence": "Attached flipper raises outward and returns; complete body remains grounded; no detached wave marks."
+    },
+    {
+      "state": "jumping",
+      "verdict": "pass",
+      "evidence": "Native-cell transition strip shows coherent body scale, feet visibly lift through rise and peak, then return to initial floor baseline. Landing and subsequent idle align."
+    },
+    {
+      "state": "failed",
+      "verdict": "pass",
+      "evidence": "Eyes lower and close with head and flippers drooping; readable deflated reaction distinct from idle."
+    },
+    {
+      "state": "waiting",
+      "verdict": "pass",
+      "evidence": "Expectant upward gaze, head tilt and flippers brought forward toward belly; patient asking posture."
+    },
+    {
+      "state": "running",
+      "verdict": "pass",
+      "evidence": "Feet stay planted; flipper against chin/belly and focused eyes show processing/thinking rather than foot running."
+    },
+    {
+      "state": "review",
+      "verdict": "pass",
+      "evidence": "Focused head lean, eye changes and tilts read as inspection; flippers relaxed and distinct from thinking/waiting poses."
+    }
+  ],
+  "identity": {
+    "verdict": "pass",
+    "evidence": "Same gray bob anime human head, amber eyes, pale face, cream belly, black back/flippers and orange webbed feet across all nine rows."
+  },
+  "scale_and_baseline": {
+    "verdict": "pass",
+    "evidence": "Registered non-jump rows and jumping row have consistent apparent stature; idle-to-jump-to-idle native strip shows no conspicuous size or ground-contact pop."
+  },
+  "warnings": [
+    "Faint magenta edge fringe remains on intermediate sheet; perform mandatory final despill and final encoded-sheet review."
+  ],
+  "required_visual_repairs": []
+}

@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose, chin and pupils aim toward the right side of its head; B nose and pupils aim left, with the opposite cheek exposed."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A lifts its chin with the face surface and nose turned left; B shows the mirrored directional head turn toward screen-right."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose tip projects right and eyes track right; B nose tip projects left and the eyes track left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has a clear left-facing profile with nose at the left face edge; B has a right-facing profile with nose at the right edge."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A bows slightly with the nose and visible cheek directed to the right; B bows with nose and eye line directed to the left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A downturned face exposes the right cheek and nose points left; B exposes the opposite cheek and nose points right."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "Both are strongly bowed, but A nose/chin sit to the right of head center and pupils look lower-right; B nose/chin sit left and pupils look lower-left."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A shows the top of the hair and lowers chin and eyes toward the chest; B raises chin, exposes lower face, and looks upward."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A chin is lifted and pupils look above the head midpoint; B face is tucked under the bangs with the head pitched down."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A bows the head with nose pointing toward the lower-right; B lifts chin and directs the face and pupils upper-right."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a slight downward head pitch and nose angled lower-right; B raises the nose and chin with gaze angled upper-right."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A shows more crown and a tucked chin with lowered eyes; B exposes the underside of the chin and looks above-left."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A tilts face toward the chest and lower-left, while B lifts the chin and eyes toward upper-left."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "up",
+      "B": "down",
+      "reason": "A leftward profile has chin slightly lifted and eyes aimed upward-left; B leftward profile is bowed, showing more crown with nose and gaze lowered."
+    }
+  ]
+}
